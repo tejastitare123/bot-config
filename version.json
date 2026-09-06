@@ -1,0 +1,15 @@
+{
+  "latest_version": "14.0",
+  "update_files": {
+    "main_ui.pyc": "https://raw.githubusercontent.com/tejastitare123/bot-updates/main/main_ui.pyc",
+    "chrome_isolate.pyc": "https://raw.githubusercontent.com/tejastitare123/bot-updates/main/chrome_isolate.pyc",
+    "config/settings.json": "https://raw.githubusercontent.com/tejastitare123/bot-updates/main/settings.json",
+    "src/app_checkin.pyc": "https://raw.githubusercontent.com/tejastitare123/bot-updates/main/src/app_checkin.pyc",
+    "src/daily_set.pyc": "https://raw.githubusercontent.com/tejastitare123/bot-updates/main/src/daily_set.pyc",
+    "src/dashboard_set.pyc": "https://raw.githubusercontent.com/tejastitare123/bot-updates/main/src/dashboard_set.pyc",
+    "src/history.pyc": "https://raw.githubusercontent.com/tejastitare123/bot-updates/main/src/history.pyc",
+    "src/news_keywords.pyc": "https://raw.githubusercontent.com/tejastitare123/bot-updates/main/src/news_keywords.pyc",
+    "src/puzzle_tasks.pyc": "https://raw.githubusercontent.com/tejastitare123/bot-updates/main/src/puzzle_tasks.pyc",
+    "src/search_engine.pyc": "https://raw.githubusercontent.com/tejastitare123/bot-updates/main/src/search_engine.pyc"
+  }
+}
