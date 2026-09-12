@@ -1,5 +1,5 @@
 {
-  "latest_version": "15.2",
+  "latest_version": "15.3",
   "update_files": {
     "main_ui.pyc": "https://raw.githubusercontent.com/tejastitare123/bot-updates/main/main_ui.pyc",
     "chrome_isolate.pyc": "https://raw.githubusercontent.com/tejastitare123/bot-updates/main/chrome_isolate.pyc",
